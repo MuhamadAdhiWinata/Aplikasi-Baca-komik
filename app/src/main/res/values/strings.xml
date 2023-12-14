@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baca Komik</string>
+    <string name="menu_home">List Komik</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="empty_favorite">Tidak ada list favorite.</string>
+    <string name="placeholder_search">Ketik Judul Komik...</string>
+    <string name="my_email">a159bsy2601@bangkit.academy</string>
+    <string name="my_name">Muhamad Adhi Winata</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="back">Kembali</string>
+    <string name="add_favorite">Tambah Ke Favorite</string>
+    <string name="remove_favorite">Hapus Dari Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="empty_data">Tidak Ada Data</string>
+</resources>
